@@ -1,4 +1,4 @@
-# MacroMag OS — Modular Computing Architecture
+# MacroMag Foundation — Modular Computing Architecture
 
 **MacroMag** is an open-source hardware-software ecosystem designed for digital sovereignty, zero-telemetry execution, and hardware modularity to fight electronic waste (e-waste).
 
